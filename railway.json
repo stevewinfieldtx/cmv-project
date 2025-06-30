@@ -7,4 +7,3 @@
     "startCommand": "gunicorn app:app"
   }
 }  
-
